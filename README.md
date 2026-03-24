@@ -4,4 +4,6 @@ Hi ha diferents tipus d'arxius:
 
 Cafeina.xyz i cafeina.pdb : dades de la molècula que es farà servir a la classe del 24/3 per relaxar l'estructura amb siesta.
 
-Arxius .pdb de la proteïna problema : inclou tots els àtoms seleccionats. S'ha fet una selecció de tota la estructura, backbone, ions, tots els àtoms que siguin no proteïna (inclou aigües, nucleic, ions, etc), nucleic, residus polars i apolars, proteïnes sheet i proteïnes helix. 
+Carpeta de la molècula problema estudiada a classe
+
+Carpeta amb l'estudi de l'optimització de la molècula de cafeina.
